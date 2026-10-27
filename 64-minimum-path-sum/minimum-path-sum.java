@@ -25,7 +25,7 @@ class Solution {
 
         // Invalid cell
         if (i < 0 || j < 0) {
-            return Integer.MAX_VALUE / 2;
+            return Integer.MAX_VALUE/2 ;
         }
 
         // Already calculated
